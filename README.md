@@ -16,6 +16,13 @@
 
 ---
 
+# Management
+
+---
+
+1. [Management of Services: Concepts, Design, and Delivery](https://ocw.mit.edu/courses/15-768-management-of-services-concepts-design-and-delivery-fall-2010/)
+2. [Logistical and Transportation Planning Methods](https://ocw.mit.edu/courses/1-203j-logistical-and-transportation-planning-methods-fall-2006/)
+
 # Math
 
 ---
@@ -86,3 +93,14 @@
 1. [[Prediction: Machine Learning and Statistics](https://ocw.mit.edu/courses/15-097-prediction-machine-learning-and-statistics-spring-2012/)](https://ocw.mit.edu/courses/15-097-prediction-machine-learning-and-statistics-spring-2012/)
 
 ---
+
+# Autonomous AI for Drone 
+---
+
+1. [Visual Navigation for Autonomous Vehicles (VNAV)](https://ocw.mit.edu/courses/16-485-visual-navigation-for-autonomous-vehicles-vnav-fall-2020/)
+2. [Autonomous Robot Design Competition](https://ocw.mit.edu/courses/6-270-autonomous-robot-design-competition-january-iap-2005/)
+3. [Dynamics of Nonlinear Systems](https://ocw.mit.edu/courses/6-243j-dynamics-of-nonlinear-systems-fall-2003/)
+4. [Principles of Autonomy and Decision Making](https://ocw.mit.edu/courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/)
+5. [Robotic Manipulation](https://manipulation.mit.edu) - book
+6. [Air Transportation Systems Architecting](https://ocw.mit.edu/courses/16-886-air-transportation-systems-architecting-spring-2004/)
+7. 
